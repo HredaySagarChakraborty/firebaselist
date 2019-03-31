@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "992103504025",
+    "firebase_url": "https://fir-list-f1062.firebaseio.com",
+    "project_id": "fir-list-f1062",
+    "storage_bucket": "fir-list-f1062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992103504025:android:7d0804679da2ab04",
+        "android_client_info": {
+          "package_name": "comp.example.hreday.firebaselist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992103504025-h08vsjhtf917kapj89ll60otq36ndh3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYf9lT2In8tM_KlBUY5i3mClZqzytOu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
